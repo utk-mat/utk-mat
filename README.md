@@ -18,10 +18,15 @@ Hey! I'm Utkarsh Mathur, a driven developer and AI enthusiast passionate about t
 
 ## 🌐 Socials
 
-<a href="https://linkedin.com/in/utk-mat"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-<a href="mailto:utkal.matrix@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail" /></a>
-<a href="https://instagram.com/utk.mat"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram" /></a>
-
+<a href="https://linkedin.com/in/utkarsh-mathur-b1b4891b1/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+</a>
+<a href="mailto:utkarshbmathur04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-grey?logo=gmail" />
+</a>
+<a href="https://instagram.com/utk_mat">
+  <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram" />
+</a>
 ---
 
 ## 💻 Tech Stack
