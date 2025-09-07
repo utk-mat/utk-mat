@@ -136,10 +136,23 @@ A fullstack web app for managing customer orders, invoices, and delivery trackin
 
 ---
 
-## 🐍 Contribution Graph  
+## 📈 Contribution Stats  
 
 <p align="center">
-  <img src="https://github.com/utk-mat/utk-mat/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <b>2025 Contributions:</b> 78  
+  <br>
+  <b>Repositories Contributed:</b> 16+  
+  <br>
+  <b>Activity Breakdown:</b>  
+  🔹 100% Commits  
+  🔹 0% Pull Requests  
+  🔹 0% Issues  
+  🔹 0% Code Reviews  
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/utk-mat/contributions-2025.png" alt="GitHub Contribution Graph" width="600"/>
+</p>
+
 
 ---
