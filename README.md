@@ -90,14 +90,14 @@
 ---
 
 ### 🌸 Flower Simulation (IIT P Project)  
-A simulation-based project that models the growth and blooming of flowers using mathematical algorithms.  
+A simulation-based project that models the Federated Learning Mechanism using mathematical algorithms with blockchain and encyption.  
 
 - **Problem:** Training a single, powerful model from data distributed across many different sources without ever seeing or centralizing the raw data.
 - **Solution:** A federated learning system that orchestrates secure, collaborative training.
 - **Architecture Diagram:**
   A central Flower server distributes a global model to multiple clients. Each client trains on its local data partition. The clients then send updated parameters (gradients) back to the server, which aggregates them and sends a new global model back to the clients. This process repeats for multiple rounds.
 
-- **Tech Stack:** Python, NumPy, Matplotlib
+- **Tech Stack:** Python(FLOWER), NumPy, Matplotlib
 - **Highlights:** Research-driven, visual simulations for biological processes.
 
 ---
