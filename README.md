@@ -150,9 +150,4 @@ A fullstack web app for managing customer orders, invoices, and delivery trackin
   🔹 0% Code Reviews  
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/utk-mat/contributions-2025.png" alt="GitHub Contribution Graph" width="600"/>
-</p>
-
-
 ---
