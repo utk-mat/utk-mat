@@ -56,13 +56,7 @@ Adobe Illustrator | Notion | Figma
 ![Utkal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utk-mat&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utk-mat&theme=radical)
 
----
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=utk-mat&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## ✍️ Random Dev Quote
 
