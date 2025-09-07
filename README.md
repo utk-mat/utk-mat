@@ -1,13 +1,13 @@
 <!-- Typing SVG effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=12D6F7&background=FFFFFF00&center=true&vCenter=true&width=420&lines=Hi+there!+I'm+Utkal;+AI+Engineer+%7C+Fullstack+Developer;+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=12D6F7&background=FFFFFF00&center=true&vCenter=true&width=420&lines=Hi+there!+I'm+Utkarsh+Mathur;+Software+Dev,+AI+Engineer+%7C+Fullstack+Developer;+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hey! I'm Utkal, a driven developer and AI enthusiast passionate about transforming ideas into real-world solutions.
+Hey! I'm Utkarsh Mathur, a driven developer and AI enthusiast passionate about transforming ideas into real-world solutions.
 
 - 🔭 **Currently working on:** AI-powered apps, scalable backend systems, and blockchain solutions.
 - 🌱 **Actively learning:** MLOps, Cloud-native architectures, and advanced NLP techniques.
