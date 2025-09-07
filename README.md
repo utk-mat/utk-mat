@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me  
 
 🚀 Passionate **AI Engineer** and **Fullstack Developer** who loves building impactful products.  
-🎯 My focus is on **AI/ML**, **scalable backend systems**, and **health-tech + blockchain** innovations.  
+🎯 Focused on **AI/ML**, **scalable backend systems**, and **health-tech + blockchain** innovations.  
 
 - 🔭 Currently working on: **AI-powered apps**, **federated learning**, **IoT-ML systems**  
 - 🌱 Exploring: **MLOps**, **Cloud-native architectures**, **Advanced NLP**  
@@ -75,7 +75,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="./Screenshot%202025-09-07%20at%2011.33.35 AM.png" alt="Utkarsh's GitHub Contributions" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utk-mat&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utk-mat&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utk-mat&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
@@ -83,10 +88,58 @@
 ## 🚀 Featured Projects  
 
 ### 🌸 Flower Simulation (IIT P Project)  
-**A generative AI + simulation system that models flower growth patterns.**  
-- **Tech Stack:** Python, Matplotlib, NumPy, Simulation Algorithms  
-- **Diagram:**  
-```mermaid
-graph TD;
-  Input(Flower Params) --> Simulation[Simulation Engine];
-  Simulation --> Visualization[2D/3D Render];
+A simulation-based project that models the growth and blooming of flowers using mathematical algorithms.  
+- **Tech Stack:** Python, NumPy, Matplotlib  
+- **Highlights:** Research-driven, visual simulations for biological processes.  
+
+---
+
+### 🤖 LeetCode AI Assistant  
+A Chrome extension that provides **AI-powered hints, explanations, and optimized solutions** while solving problems on LeetCode.  
+- **Tech Stack:** JavaScript, OpenAI API, Chrome Extensions (MV3)  
+- **Highlights:** Integrated directly into LeetCode UI, saves time in competitive coding.  
+
+---
+
+### 🏆 BloodChain AI  
+Hackathon-winning project integrating **Federated Learning + Blockchain** to securely manage blood donation records while preserving privacy.  
+- **Tech Stack:** PyTorch, Flask, TenSEAL (homomorphic encryption), Blockchain, Azure  
+- **Highlights:** Decentralized privacy-first health data system, scalable & secure.  
+
+---
+
+### 💧 Greywater IoT ML  
+IoT + ML system that monitors **water quality** and predicts usability using machine learning models.  
+- **Tech Stack:** Python, Random Forest, Logistic Regression, SHAP  
+- **Highlights:** Deployed with IoT sensors, interpretable ML with feature importance.  
+
+---
+
+### 📊 Tresata Classifier  
+An intelligent classifier that automatically detects **column types** in CSVs and performs parsing + normalization.  
+- **Tech Stack:** Python, Scikit-learn, Gemini API  
+- **Highlights:** 2-stage ML pipeline with accuracy evaluation and structured output.  
+
+---
+
+### 📓 Journal App  
+A Java-based application for **managing personal journals**, including add, edit, delete, and view functionalities.  
+- **Tech Stack:** Java, Maven  
+- **Highlights:** CLI + desktop usage, persistent storage with clean design.  
+
+---
+
+### 📦 Order Management System  
+A fullstack web app for managing customer orders, invoices, and delivery tracking.  
+- **Tech Stack:** React, Node.js, Express, MongoDB  
+- **Highlights:** Real-time order tracking, user-friendly interface, REST APIs.  
+
+---
+
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://github.com/utk-mat/utk-mat/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
